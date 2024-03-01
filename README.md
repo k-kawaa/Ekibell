@@ -14,7 +14,7 @@
 - [ ] 出力先スピーカー固定
 
 ## License
-This software is conteins [Naudio](https://github.com/naudio/NAudio)(Copyright &copy; 2020 Mark Heath) library , released under MIT license.
+This software conteins [Naudio](https://github.com/naudio/NAudio)(Copyright &copy; 2020 Mark Heath) library , released under MIT license.
 ```
 Copyright 2020 Mark Heath
 
